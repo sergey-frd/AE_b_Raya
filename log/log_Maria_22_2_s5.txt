@@ -1,0 +1,37 @@
+====================
+Maria_22_2_s5 Date: Wed Nov 23 2022 15:08:20 GMT+0200
+ getRandomInt: 3
+ getRandomInt: 6
+ getRandomInt: 7
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 1
+ genXml: <Stuff>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Maria\\xml\\ae_System_22_s5.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_Maria\\xml\\ae_System_22_s5.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Maria/2022/2022_IG/221123_50.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Maria/2022/2022_IG/221123_51.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Maria/2022/2022_IG/221123_51b.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Maria/2022/2022_IG/221123_52.jpg</pathurl>
+</Stuff>
+filePathUrl.length= 4
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Maria\\2022\\2022_IG\\221123_50.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Maria\\2022\\2022_IG\\221123_51.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Maria\\2022\\2022_IG\\221123_51b.jpg
+!! Not found findItem 
+!! Not found findItem 
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Maria\\2022\\2022_IG\\221123_52.jpg
+!! Not found findItem 
+!! Not found findItem 
+====================
